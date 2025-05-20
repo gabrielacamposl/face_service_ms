@@ -3,3 +3,5 @@ uvicorn
 numpy
 Pillow
 face_recognition
+python-multipart
+
